@@ -1,4 +1,4 @@
-# php
+# HYPERTEXT PREPROCESSOR
 PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994.
 
 PHP is a recursive acronym for "PHP: Hypertext Preprocessor".
